@@ -1,3 +1,3 @@
 # git_test
 
-Hello, Odin!
+This is the introductory lesson on Git and GitHub from the Odin Project.
